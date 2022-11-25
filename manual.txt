@@ -1,0 +1,15 @@
+python3 -m venv .name
+# Crea las variables necesarias para el programa
+source .env2/bin/activate
+# Añadimos las librerias necesarias
+pip3 install flask
+# Iniciamos el server
+python3 main.py
+
+# Para volver a activar el server es
+source .env2/bin/activate
+python3 main.py
+
+# Para salirnos del server es
+Ctrl+c
+deactivate

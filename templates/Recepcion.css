@@ -1,0 +1,14 @@
+body {
+    background-color:#c0c0c0;}
+
+.Input{
+    display: grid;
+}
+
+label {
+    color:black;
+}
+
+h1 {
+    color:black;
+}
